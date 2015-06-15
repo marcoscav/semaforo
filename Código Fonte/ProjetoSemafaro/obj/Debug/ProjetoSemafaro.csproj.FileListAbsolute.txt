@@ -1,0 +1,20 @@
+c:\users\valdemir\documents\visual studio 2012\Projects\ProjetoSemafaro\ProjetoSemafaro\bin\Debug\ProjetoSemafaro.exe.config
+c:\users\valdemir\documents\visual studio 2012\Projects\ProjetoSemafaro\ProjetoSemafaro\bin\Debug\ProjetoSemafaro.exe
+c:\users\valdemir\documents\visual studio 2012\Projects\ProjetoSemafaro\ProjetoSemafaro\bin\Debug\ProjetoSemafaro.pdb
+c:\users\valdemir\documents\visual studio 2012\Projects\ProjetoSemafaro\ProjetoSemafaro\obj\Debug\ProjetoSemafaro.csprojResolveAssemblyReference.cache
+c:\users\valdemir\documents\visual studio 2012\Projects\ProjetoSemafaro\ProjetoSemafaro\obj\Debug\ProjetoSemafaro.Form1.resources
+c:\users\valdemir\documents\visual studio 2012\Projects\ProjetoSemafaro\ProjetoSemafaro\obj\Debug\ProjetoSemafaro.Properties.Resources.resources
+c:\users\valdemir\documents\visual studio 2012\Projects\ProjetoSemafaro\ProjetoSemafaro\obj\Debug\ProjetoSemafaro.csproj.GenerateResource.Cache
+c:\users\valdemir\documents\visual studio 2012\Projects\ProjetoSemafaro\ProjetoSemafaro\obj\Debug\ProjetoSemafaro.exe
+c:\users\valdemir\documents\visual studio 2012\Projects\ProjetoSemafaro\ProjetoSemafaro\obj\Debug\ProjetoSemafaro.pdb
+c:\users\valdemir\documents\visual studio 2012\Projects\ProjetoSemafaro\ProjetoSemafaro\obj\Debug\ProjetoSemafaro.Carro.resources
+C:\Projetos\ProjetoSemafaro\ProjetoSemafaro\bin\Debug\ProjetoSemafaro.exe.config
+C:\Projetos\ProjetoSemafaro\ProjetoSemafaro\obj\Debug\ProjetoSemafaro.exe
+C:\Projetos\ProjetoSemafaro\ProjetoSemafaro\obj\Debug\ProjetoSemafaro.pdb
+C:\Projetos\ProjetoSemafaro\ProjetoSemafaro\bin\Debug\ProjetoSemafaro.exe
+C:\Projetos\ProjetoSemafaro\ProjetoSemafaro\bin\Debug\ProjetoSemafaro.pdb
+C:\Projetos\ProjetoSemafaro\ProjetoSemafaro\obj\Debug\ProjetoSemafaro.csprojResolveAssemblyReference.cache
+C:\Projetos\ProjetoSemafaro\ProjetoSemafaro\obj\Debug\ProjetoSemafaro.Carro.resources
+C:\Projetos\ProjetoSemafaro\ProjetoSemafaro\obj\Debug\ProjetoSemafaro.Form1.resources
+C:\Projetos\ProjetoSemafaro\ProjetoSemafaro\obj\Debug\ProjetoSemafaro.Properties.Resources.resources
+C:\Projetos\ProjetoSemafaro\ProjetoSemafaro\obj\Debug\ProjetoSemafaro.csproj.GenerateResource.Cache
