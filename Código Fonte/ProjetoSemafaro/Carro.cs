@@ -16,12 +16,16 @@ namespace ProjetoSemafaro
         private String direcao;
         private Semaforo semaforo;
         private Boolean isFinalizado;
+        private Boolean isPassouPeloSemaforo;
+
+        
 
         public Carro(int velocidadeAtual, String direcaoAtual)
         {
             velocidade = velocidadeAtual;
             direcao = direcaoAtual;
             id = idGeral++;
+                isPassouPeloSemaforo = false;
         }
 
         public void atualizar(){
@@ -46,6 +50,7 @@ namespace ProjetoSemafaro
                         else if (radio.Location.X > 115)
                         {
                             p.X += velocidade;
+                            isPassouPeloSemaforo = true;
                         }
                     }
 
@@ -70,6 +75,7 @@ namespace ProjetoSemafaro
                         else if (radio.Location.Y > 85)
                         {
                             p.Y += velocidade;
+                            IsPassouPeloSemaforo = true;
                         }
                     }
 
@@ -128,6 +134,12 @@ namespace ProjetoSemafaro
         public Boolean isFinalizou()
         {
             return this.isFinalizado;
+        }
+
+        public Boolean IsPassouPeloSemaforo
+        {
+            get { return isPassouPeloSemaforo; }
+            set { isPassouPeloSemaforo = value; }
         }
     }
 }
